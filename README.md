@@ -24,3 +24,6 @@ Triggered within GHL to send the first SMS interaction.
 ### 3. GHL Email Workflow
 Triggered after the SMS workflow to handle subsequent email follow-ups.
 * [Upsell Mosquito Existing CHC Email](./Upsell%20Mosquito%20Existing%20CHC%20Email.md)
+
+### 4. Zapier OOC Subscription Workflow
+* [Upsell Mosquito Existing CHC OASIS](./Upsell%20Mosquito%20Existing%20CHC%20OASIS.md)

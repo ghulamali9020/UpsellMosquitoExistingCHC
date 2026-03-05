@@ -415,6 +415,9 @@ Send a final SMS touchpoint before closing out the sequence.
 | URL | `https://hooks.zapier.com/hooks/catch/1263219/ul6qppi/` |
 | Custom Data | `FRACCT`, `Housesqft`, `Lawnsqft`, `FirstName`, `LastName` |
 
+- Linked to Zapier OOC Subscription Workflow
+* [Upsell Mosquito Existing CHC OASIS](./Upsell%20Mosquito%20Existing%20CHC%20OASIS.md)
+
 **7. Email**
 - Action Name: Welcome to the Outdoor Oasis Club! 🏝️
 - Subject: Welcome to the Outdoor Oasis Club! 🏝️
