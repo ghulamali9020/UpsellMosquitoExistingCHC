@@ -356,7 +356,7 @@ Fires a POST request to Zapier with key account and property data so downstream 
 | Setting | Value |
 |---|---|
 | Method | POST |
-| URL | `https://hooks.zapier.com/hooks/catch/1263219/ul6qppi/` |
+| Workflow | `https://zapier.com/editor/346314379/published` |
 
 Custom data payload:
 

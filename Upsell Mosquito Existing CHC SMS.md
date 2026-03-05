@@ -412,7 +412,7 @@ Send a final SMS touchpoint before closing out the sequence.
 | Setting | Value |
 |---|---|
 | Method | POST |
-| URL | `https://hooks.zapier.com/hooks/catch/1263219/ul6qppi/` |
+| Workflow | `https://zapier.com/editor/346314379/published` |
 | Custom Data | `FRACCT`, `Housesqft`, `Lawnsqft`, `FirstName`, `LastName` |
 
 - Linked to Zapier OOC Subscription Workflow

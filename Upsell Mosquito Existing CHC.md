@@ -132,7 +132,6 @@ Takes the multi-row output from Google Sheets and processes each customer record
 **App:** Webhooks by Zapier  
 **Action:** POST  
 **Type:** Action
-**URL:** https://services.leadconnectorhq.com/hooks/Br3C4M7nA0y0gVZSmmFO/webhook-trigger/0db15d50-392e-4c9c-876a-ccc5536c0180
 
 **Purpose:**  
 Sends an HTTP POST request containing the current customer's data to GoHighLevel (GHL) SMS Workflow.
@@ -162,7 +161,6 @@ Sends an HTTP POST request containing the current customer's data to GoHighLevel
 **App:** Webhooks by Zapier  
 **Action:** POST (Copy)  
 **Type:** Action
-**URL:** https://services.leadconnectorhq.com/hooks/BFlXKR4lwAg155Q5A6W3/webhook-trigger/sXzjqlxMmk6vltxeC5l8
 
 **Purpose:**  
 Sends an HTTP POST request containing the current customer's data to GoHighLevel (GHL) Email Workflow.
